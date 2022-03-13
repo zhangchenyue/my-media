@@ -1,0 +1,42 @@
+{
+    "audio": [
+        {
+            "title": "Horizon",
+            "url": "https://github.com/zhangchenyue/my-media/blob/master/audio/Horizon.mp4"
+        },
+        {
+            "title": "Go Time",
+            "url": "https://github.com/zhangchenyue/my-media/blob/master/audio/Go_Time.mp4"
+        },
+        {
+            "title": "Two Steps From Hell",
+            "url": "https://github.com/zhangchenyue/my-media/blob/master/audio/Two_Steps_From_Hell.mp3"
+        }
+    ],
+    "video": [
+        {
+            "url": "https://github.com/zhangchenyue/my-media/blob/master/video/BigBuckBunny.mp4",
+            "subtitle": "By Blender Foundation",
+            "thumb": "https://github.com/zhangchenyue/my-media/blob/master/video/BigBuckBunny.jpg",
+            "title": "Big Buck Bunny"
+        },
+        {
+            "url": "https://github.com/zhangchenyue/my-media/blob/master/video/ForBiggerFun.mp4",
+            "subtitle": "By Google",
+            "thumb": "https://github.com/zhangchenyue/my-media/blob/master/video/ForBiggerFun.jpg",
+            "title": "For Bigger Fun"
+        },
+        {
+            "url": "https://github.com/zhangchenyue/my-media/blob/master/video/Sintel.mp4",
+            "subtitle": "By Blender Foundation",
+            "thumb": "https://github.com/zhangchenyue/my-media/blob/master/video/Sintel.jpg",
+            "title": "Sintel"
+        },
+        {
+            "url": "https://github.com/zhangchenyue/my-media/blob/master/video/SubaruOutbackOnStreetAndDirt.mp4",
+            "subtitle": "By Garage419",
+            "thumb": "https://github.com/zhangchenyue/my-media/blob/master/video/SubaruOutbackOnStreetAndDirt.jpg",
+            "title": "Subaru Outback On Street And Dirt"
+        }
+    ]
+}
